@@ -57,6 +57,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+atom_feed:
+  path: /_pages/404.md
 author:
   name   : "Ishaan Sharma"
   # avatar : "/assets/images/bio-photo.jpg"
