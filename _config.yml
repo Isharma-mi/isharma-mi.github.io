@@ -57,6 +57,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+atom_feed:
+  path: /_pages/404.md
 author:
   name   : "Ishaan Sharma"
   # avatar : "/assets/images/bio-photo.jpg"
@@ -71,15 +73,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Isharma-mi"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-square-linkedin"
+      url: "https://www.linkedin.com/in/sharmaishaan4/"
 
 defaults:
   # _posts
