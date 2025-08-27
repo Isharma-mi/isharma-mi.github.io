@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "Home"
+author_profile: true
 ---
 
 Hello there!
@@ -10,4 +11,4 @@ I earned my Bachelor's at Georgia State University and started working as a Medi
 
 Along with automating cloud infrastructure deployments/setup, security is another interest of mine. I have not had much experience in cloud security, but it is something I aspire to specialize in. 
 
-[*Attached*]({{isharma-mi.github.io}}/assets/resume/Sharma_Ishaan_2025.pdf){:target="_blank"} is my resume.
+[*Attached*]({{isharma-mi.github.io}}/assets/resume/Sharma_Ishaan_2025_Resume.pdf){:target="_blank"} is my resume.
