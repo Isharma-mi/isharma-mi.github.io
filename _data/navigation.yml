@@ -5,6 +5,6 @@ main:
     url: /portfolio/
   - title: "Certificates"
     url: /certs/
-  - title: "Tags"
-    url: /tags/
+  - title: "Side Projects"
+    url: /side-projects/
   
